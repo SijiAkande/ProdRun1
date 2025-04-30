@@ -15,6 +15,7 @@
                     { "courseName": "Introduction to Business I", "credits": 2 },
                     { "courseName": "MS Office Specialist WORD", "credits": 0 },
                     { "courseName": "ECN111 Introduction to Economics", "credits": 3 },
+                    { "courseName": "CBS111 Mathematics for Business & Social Sciences I", "credits": 3},
                     { "courseName": "CST111 Use Of Library, and Information Technology", "credits": 2 },
                     { "courseName": "GST111 Communication in English", "credits": 2 },
                     { "courseName": "EDS111 Entreprenuerial Development Studies", "credits": 1 },
@@ -95,7 +96,7 @@
                     { "courseName": "GST221 Nigerian People and Culture", "credits": 2 },
                     { "courseName": "GST222 Peace and Conflict Studies", "credits": 2 },
                     { "courseName": "EDS221 Entrepreneurial Development Studies IV", "credits": 1 },
-                    { "courseName": "CIT221 SAP-TERP10 II", "credits": 0 },
+                    { "courseName": "CIT224 SAP-TERP10 II", "credits": 0 },
                     { "courseName": "TMC221 Total Man Concept IV", "credits": 1 },
                     { "courseName": "TMC222 Total Man Concept - Sports IV", "credits": 0 }
                   ],
@@ -121,7 +122,7 @@
                     { "courseName": "ECN315 Public Sector Economics and Policy I", "credits": 2 },
                     { "courseName": "ECN316 International Economics I", "credits": 2 },
                     { "courseName": "ECN317 Project Evaluation", "credits": 2 },
-                    { "courseName": "Introductory Economatric I", "credits": 2 },
+                    { "courseName": "ECN318 Introductory Economatric I", "credits": 2 },
                     { "courseName": "GST311 History and Philosophy of Science", "credits": 2},
                     { "courseName": "DLD11 Foundations of Leadership Developemnt", "credits": 0},
                     { "courseName": "EDS311 Entrepreneurial Development Studies V", "credits": 1 },
@@ -132,7 +133,7 @@
                     { "courseName": "ECN319 Operations Research I", "credits": 2 },
                     { "courseName": "ECN331 Monetary Economics", "credits": 2 },
                     { "courseName": "ECN332 Economic History", "credits": 2 },
-                    { "courseName": "Political Economy", "credits": 2 }
+                    { "courseName": "eCN333 Political Economy", "credits": 2 }
                   ],   
                   "maxCourses": 14,
                   "elective_no": 1
@@ -182,7 +183,7 @@
                   "electives":[
                     { "courseName": "BFN411 Financial Management", "credits": 3 },
                     { "courseName": "ECN417 Health Economics I", "credits": 2 },
-                    { "courseName": "Management Economics I", "credits": 2 }
+                    { "courseName": "ECN419 Management Economics I", "credits": 2 }
                   ],
                   "maxCourses":11,
                   "elective_no": 1
