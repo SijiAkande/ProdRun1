@@ -12,8 +12,8 @@
                   "semester": "Alpha Semester",
                   "courses": [
                     { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
-                    { "courseName": "Introduction to Business I", "credits": 2 },
-                    { "courseName": "MS Office Specialist WORD", "credits": 0 },
+                    { "courseName": "BUS111 Introduction to Business I", "credits": 2 },
+                    { "courseName": "CIT111 MS Office Specialist WORD", "credits": 0 },
                     { "courseName": "ECN111 Introduction to Economics", "credits": 3 },
                     { "courseName": "CBS111 Mathematics for Business & Social Sciences I", "credits": 3},
                     { "courseName": "CST111 Use Of Library, and Information Technology", "credits": 2 },
