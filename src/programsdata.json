@@ -45,7 +45,7 @@
                     { "courseName": "GST122 Communication in French","credits": 2},
                     { "courseName": "EDS121 Entrepreneurial Development Studies II", "credits": 1 },
                     { "courseName": "TMC121 Introduction to the Total Man Concept II", "credits": 1 },
-                    { "courseName": "TMC122 Total Man Concept - Sports II", "credits": 1 }  
+                    { "courseName": "TMC122 Total Man Concept - Sports II", "credits": 0 }  
                   ],
                   "electives": [
                     { "courseName": "BFN121 Introduction to Banking and Finance II", "credits": 2},
