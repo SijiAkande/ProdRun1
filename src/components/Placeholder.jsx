@@ -29,10 +29,17 @@ const Placeholder = () => {
   };
 
   const handleYearChange = (e) => {
-    const year = selectedProgram?.years.find((y) => y.year === e.target.value) || null; 
+    const year = selectedProgram?.years.find((y) => y.year === e.target.value) || null;
     setSelectedYear(year);
-    setSelectedSemester(null);
+  
+    if (year && selectedSemester) {
+      const sameSemester = year.semesters.find(s => s.semester === selectedSemester.semester);
+      setSelectedSemester(sameSemester || null);
+    } else {
+      setSelectedSemester(null);
+    }
   };
+  
 
   const handleSemesterChange = (e) => {
     const semester = selectedYear?.semesters.find((s) => s.semester === e.target.value) || null; 
